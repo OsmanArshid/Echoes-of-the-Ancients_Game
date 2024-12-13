@@ -1,14 +1,14 @@
 # **Echoes of the Ancients: Final Version**
 
 ## **Introduction**
-Welcome to **Echoes of the Ancients**, a thrilling third-person adventure game where players control **Ashkan**, a determined hero navigating an expansive horror themed terrain, battling enemies, and striving to reach victory. This final version marks a significant milestone in development, introducing dynamic gameplay, enemy AI, and a minor gaming experience. 
+Welcome to **Echoes of the Ancients**, a thrilling third-person adventure game where players control **Ashkan**, a determined hero navigating an expansive horror-themed terrain, battling enemies, and striving to reach victory. This final version marks a significant milestone in development, introducing dynamic gameplay, enemy AI, and a minor gaming experience. 
 
 ---
 
 ## **About the Project**
 This final version includes:
-- A **complete level** with enhanced terrain design and environmental modification from the Prototype 1.
-- Fully functioning **enemy AI**, where enemies detect Ashkan when he enters their radius, follow him, and engage in combat and attack him.
+- A **complete level** with enhanced terrain design and environmental modification from Prototype 1.
+- Fully functioning **enemy AI**, where enemies detect Ashkan when he enters their radius, follow him, engage in combat, and attack him.
 - An **interactive start screen** featuring options for:
   - **Save the Jungle**
   - **Instructions**
@@ -41,12 +41,12 @@ This final version includes:
 
 ## **Key Features**
 1. **Dynamic Enemy AI**:
-   - Enemies detect Ashkan within a certain radius, follow him with appropiate animations.
+   - Enemies detect Ashkan within a certain radius and follow him with appropriate animations.
 2. **Combat System**:
    - Utilize melee and projectile attacks to fight enemies.
    - Strategically dash/roll to evade attacks.
 3. **Level Goal**:
-   - Reach the sphere located on the far side of the terrain to win.
+   - Reach the sphere on the terrain's far side to win.
 4. **Interactive Start Screen**:
    - Provides easy navigation for starting or exiting the game.
 
